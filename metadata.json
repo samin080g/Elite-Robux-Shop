@@ -1,0 +1,7 @@
+{
+  "name": "Elite Robux Shop",
+  "description": "A high-performance, 3D-themed gaming marketplace for Robux and Gift Cards with neon aesthetics and real-time order tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
